@@ -1,12 +1,19 @@
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/102273501-41eeec80-3ed7-11eb-9ec7-cfc365d5baa8.png">
   <br />
-  VueJS Guide
+  Vue.js Guide
 </h1>
 
 #### A guide covering the VueJS web framework including the applications, libraries and tools that will make you a better and more efficient VueJS developer.
 
-## Resources
+ **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/118560481-6832e580-b71e-11eb-9f38-65a537781287.png">
+  <br />
+</p>
+
+# Vue.js Learning Resources
 
 [Vue.js](http://vuejs.org/) is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 
@@ -38,7 +45,7 @@
 
 [VueJS  Open Collective](https://opencollective.com/vuejs)
 
-## Tools
+# Vue.js Tools and Frameworks
 
 [Vue CLI](https://cli.vuejs.org/) is a standard tooling for Vue.js development that provides support for Babel, TypeScript, ESLint, PostCSS, PWA, Unit Testing & End-to-end Testing.
 
@@ -75,3 +82,12 @@
 [Hoppscotch](https://hoppscotch.io/) is a free, fast and beautiful API request builder used by 100k+ developers.
 
 [Quasar](https://quasar.dev/) is a framework that builds high-performance VueJS user interfaces in record time. Such as responsive Single Page Apps, SSR Apps, PWAs, Browser extensions, Hybrid Mobile Apps and Electron Apps.
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/VueJS-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
